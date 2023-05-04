@@ -111,7 +111,7 @@
                 <div class="agree-area">
                     <div class="chk-box">
                         <input type="checkbox" name="" id="agree" class="chk-box" value="1">
-                        <label for="agree-privacy">(아래)개인정보 수집·이용에 동의합니다.</label>
+                        <label for="agree" class="agree">(아래)개인정보 수집·이용에 동의합니다.</label>
                         <div class="agree-text">
                             <p>수집하는 개인정보의 항목</p>
                             <ul><li>이메일, 휴대전화</li></ul>
